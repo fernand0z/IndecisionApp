@@ -1,0 +1,22 @@
+{
+  "name": "indecisionapp",
+  "version": "1.0.0",
+  "description": "IndecisionApp - web application Udemy React course by Andrew Mead",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernand0z/IndecisionApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernand0z/IndecisionApp/issues"
+  },
+  "homepage": "https://github.com/fernand0z/IndecisionApp#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
